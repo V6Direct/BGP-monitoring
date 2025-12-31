@@ -2,9 +2,9 @@
 // config.php - Database Configuration
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'webspace5620101_db1');
-define('DB_USER', 'webspace5620101_db1');
-define('DB_PASS', 'w458ssK324WGF5a?h?');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 
 // Database Connection
 function getDB() {
